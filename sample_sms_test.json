@@ -1,0 +1,73 @@
+{
+  "alumni_data": [
+    {
+      "sr_no": 1,
+      "batch": "B-1",
+      "name": "Shreya Tiwari",
+      "fellowship_location": "Rajasthan - Churu",
+      "mobile_display": "+91-98102-09146",
+      "mobile_sms": "+919810209146",
+      "has_sms": true,
+      "email": "shreya.tiwari@gmail.com",
+      "org_name": "Unesco Mgiep",
+      "linkedin": "https://www.linkedin.com/in/shreya-tiwari-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BykoVlRHeRmSVwosgdbRGYg%3D%3D",
+      "support_status": "Unknown"
+    },
+    {
+      "sr_no": 2,
+      "batch": "B-1",
+      "name": "Stephney Steven",
+      "fellowship_location": "Rajasthan - Jhunjhunu",
+      "mobile_display": "+91-95602-41854",
+      "mobile_sms": "+919560241854",
+      "has_sms": true,
+      "email": "stephney.gf@gmail.com",
+      "org_name": "The Kshamtalaya Foundation",
+      "linkedin": "https://www.linkedin.com/in/stephney-steven-78917419?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmDKjP6FsQYy2e5VcKnEDeA%3D%3D",
+      "support_status": "Unknown"
+    },
+    {
+      "sr_no": 3,
+      "batch": "B-1",
+      "name": "Gitanjali Babbar",
+      "fellowship_location": "Rajasthan - Churu",
+      "mobile_display": "+91-90151-37370",
+      "mobile_sms": "+919015137370",
+      "has_sms": true,
+      "email": "babbar.gitanjali@gmail.com",
+      "org_name": "Kat-Katha",
+      "linkedin": "https://www.linkedin.com/in/gitanjali-babbar-b940b719?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bx3wYHX%2F0QpeR29k2rWWw6Q%3D%3D",
+      "support_status": "Unknown"
+    },
+    {
+      "sr_no": 4,
+      "batch": "B-1",
+      "name": "Dr.Sugandha Munshi",
+      "fellowship_location": "Rajasthan - Jhunjhunu",
+      "mobile_display": "+91-80026-86617",
+      "mobile_sms": "+918002686617",
+      "has_sms": true,
+      "email": "munshisugandha@gmail.com",
+      "org_name": "Irri",
+      "linkedin": "https://www.linkedin.com/in/dr-sugandha-munshi-8934b831?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuDflg3BITUu1jv03OdxDkg%3D%3D",
+      "support_status": "No"
+    },
+    {
+      "sr_no": 5,
+      "batch": "B-1",
+      "name": "Salman U Khan",
+      "fellowship_location": "Rajasthan - Churu",
+      "mobile_display": "+91-83769-70416",
+      "mobile_sms": "+918376970416",
+      "has_sms": true,
+      "email": "salman.khan@piramalfoundation.org",
+      "org_name": "Piramal Foundation",
+      "linkedin": "https://www.linkedin.com/in/salman-u-khan-38136450?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIUBi6AE9TCeFdDQHhTlPKQ%3D%3D",
+      "support_status": "Unknown"
+    }
+  ],
+  "summary_stats": {
+    "total_alumni": 5,
+    "sms_capable": 5
+  }
+}
